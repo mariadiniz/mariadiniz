@@ -11,6 +11,6 @@
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=mariadiniz&count_private=true&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/mariadiniz/github-readme-stats">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadiniz&theme=dark" />
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadiniz&count_private=true&theme=dark" />
   </a>
 </div>
