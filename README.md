@@ -6,7 +6,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maria-diniz/)
 - 😄 Pronouns: She/her
 
-<div align="center" style="display: flex; align-items: flex-start;">
+<div align="center">
   <a href="https://github.com/mariadiniz/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadiniz&count_private=true&show_icons=true&theme=dark" />
   </a>
