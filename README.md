@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently working with Ruby on Rails on Locaweb
+- 🌱 I’m currently working with Ruby on Rails and ReactJS
 - 👯 I've been studying ReactJS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maria-diniz/)
 - 😄 Pronouns: She/her
